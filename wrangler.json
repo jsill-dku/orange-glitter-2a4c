@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "orange-glitter-2a4c",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "1aba4b58-e3a1-46a0-a20d-977d58c465a7",
+      "database_name": "royal-unit-226d-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
